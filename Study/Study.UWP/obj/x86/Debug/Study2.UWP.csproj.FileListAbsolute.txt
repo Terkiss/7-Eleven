@@ -1,0 +1,11 @@
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\Study2.UWP.csprojAssemblyReference.cache
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\App.g.i.cs
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\App.g.cs
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\MainPage.g.i.cs
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\MainPage.g.cs
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\App.xaml
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\MainPage.xaml
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\App.xbf
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\MainPage.xbf
+F:\Project\Study\Study\Study\Study\Study.UWP\obj\x86\Debug\XamlSaveStateFile.xml

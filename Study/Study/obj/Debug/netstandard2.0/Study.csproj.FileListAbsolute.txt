@@ -1,0 +1,15 @@
+F:\Project\Study\Study\Study\Study\Study\bin\Debug\netstandard2.0\Study.deps.json
+F:\Project\Study\Study\Study\Study\Study\bin\Debug\netstandard2.0\Study.dll
+F:\Project\Study\Study\Study\Study\Study\bin\Debug\netstandard2.0\ref\Study.dll
+F:\Project\Study\Study\Study\Study\Study\bin\Debug\netstandard2.0\Study.pdb
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.csproj.CoreCompileInputs.cache
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.AssemblyInfoInputs.cache
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.AssemblyInfo.cs
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.dll
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\ref\Study.dll
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.pdb
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Page_Desktop.xaml.g.cs
+F:\Project\Study\Study\Study\Study\Study\obj\Debug\netstandard2.0\Study.csprojAssemblyReference.cache
